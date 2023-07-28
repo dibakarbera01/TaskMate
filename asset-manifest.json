@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dibakarbera01/Taskbox/static/css/main.225d4ad2.css",
+    "main.js": "/dibakarbera01/Taskbox/static/js/main.ba1d7e6e.js",
+    "static/media/logo.png": "/dibakarbera01/Taskbox/static/media/logo.729fe42e7d23a7906fd5.png",
+    "index.html": "/dibakarbera01/Taskbox/index.html",
+    "main.225d4ad2.css.map": "/dibakarbera01/Taskbox/static/css/main.225d4ad2.css.map",
+    "main.ba1d7e6e.js.map": "/dibakarbera01/Taskbox/static/js/main.ba1d7e6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.225d4ad2.css",
+    "static/js/main.ba1d7e6e.js"
+  ]
+}
